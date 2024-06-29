@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anand9752
-- 👀 I’m interested in Blockchain Developing
+- 👀 I’m interested 
 - 🌱 I’m currently learning Full stack Development and DSA in java
 - 💞️ 
 - 📫 How to reach me ... gmail @patidaranand9752@gmail.com
