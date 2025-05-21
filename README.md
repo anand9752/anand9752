@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anand9752" target="blank"><img src="https://img.shields.io/twitter/follow/anand9752?logo=twitter&style=for-the-badge" alt="anand9752" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS 15**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/](https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/)
 
