@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/](https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/]()
 
 - 💬 Ask me about **react , gsap**
 
 - 📫 How to reach me **patidaranand9752@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n2KZdFtADUxazNs_1gkfs2zSW-HrpY8w/view](https://drive.google.com/file/d/1n2KZdFtADUxazNs_1gkfs2zSW-HrpY8w/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n2KZdFtADUxazNs_1gkfs2zSW-HrpY8w/view)
 
 - ⚡ Fun fact **The first computer bug was literally a bug! 🪲**
 
