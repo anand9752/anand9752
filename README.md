@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://65a817125bf6e812526b90ed--courageous-kringle-788edf.netlify.app/]()
+- 👨‍💻 All of my projects are available at []()
 
-- 💬 Ask me about **react , gsap**
+- 💬 Ask me about **react , python , pandas , numpy , tensorflow , flask , pytorch , ml , deep learning , nlp , genAI**
 
 - 📫 How to reach me **patidaranand9752@gmail.com**
 
