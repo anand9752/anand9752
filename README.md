@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Patidar</h1>
-<h3 align="center">A passionate Data Scientis , MERN developer , 2 star @codechef</h3>
+<h3 align="center">A passionate Data Scientist, MERN developer , 2 star @codechef</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand9752&label=Profile%20views&color=0e75b6&style=flat" alt="anand9752" /> </p>
 
